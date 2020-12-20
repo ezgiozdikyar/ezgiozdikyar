@@ -21,3 +21,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgiozdikyar&show_icons=true&theme=cobalt&bg_color=000000&locale=en&layout=compact" alt="ezgiozdikyar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezgiozdikyar&show_icons=true&theme=cobalt&bg_color=000000&locale=en" alt="ezgiozdikyar" /></p>
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgiozdikyar&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezgiozdikyar&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">
