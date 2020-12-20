@@ -17,9 +17,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> </p>
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgiozdikyar&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ezgiozdikyar&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgiozdikyar&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">
+
 
 
