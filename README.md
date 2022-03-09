@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgiozdikyar&label=Profile%20views&color=ad08af&style=flat" alt="ezgiozdikyar" /> </p>
 
-- 🌱 I’m currently learning **C#, MsSQL**
+- 🌱 I’m currently learning **C#, SQL**
 
 - 📫 How to reach me **ezgiozdikyar@gmail.com**
 
