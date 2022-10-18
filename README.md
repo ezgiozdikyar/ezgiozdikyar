@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezgi</h1>
-<h3 align="center">Currently I'm studying computer engineering at Osmangazi University.</h3>
+<h3 align="center">Currently I'm studying computer engineering at Eskisehir Osmangazi University.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ezgiozdikyar&label=Profile%20views&color=ad08af&style=flat" alt="ezgiozdikyar" /> </p>
 
