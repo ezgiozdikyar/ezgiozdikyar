@@ -18,7 +18,7 @@
 
 
 <p><img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width:80%;">
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgiozdikyar&show_icons=true;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" style="max-width:100%;">
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgiozdikyar&show_icons=true&theme=dracula&locale=en&layout=compact" style="max-width:100%;">
 
 
 
