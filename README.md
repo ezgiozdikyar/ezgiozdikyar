@@ -18,7 +18,7 @@
 
 
 <p><img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width:50%; height:250px width:170px border-radius:5px">
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezgiozdikyar&show_icons=true&theme=dracula&locale=en&layout=compact" style="max-width:100%;">
+<p><img align="right" src="https://ionicabizau.github.io/github-profile-languages/api.html?ezgiozdikyar" style="max-width:100%;">
 
 
 
