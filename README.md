@@ -18,7 +18,7 @@
 
 
 <p><img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width:50%; height:250px width:170px border-radius:5px">
-<p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ezgiozdikyar" frameborder="0"></iframe>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ezgiozdikyar" frameborder="0"></iframe>
 
 
 
