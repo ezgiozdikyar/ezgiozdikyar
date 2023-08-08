@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ezgiozdikyar&label=Profile%20views&color=ad08af&style=flat" alt="ezgiozdikyar" /> </p>
 
-- 🌱 I’m currently learning **.Net 6**
+- 🌱 I’m currently learning **.Net 6 and Vue 3**
 
 - 📫 How to reach me **ezgiozdikyar@gmail.com**
 
